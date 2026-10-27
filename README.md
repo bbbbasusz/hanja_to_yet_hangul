@@ -17,7 +17,7 @@
 
 ## 사용 방법
 
-1. [index.html](index.html) 파일을 브라우저에서 엽니다.  
+1. [여기](https://bbbbasusz.github.io/hanja_to_yet_hangul/)를 누릅니다.
    (별도 서버나 설치가 필요 없습니다.)
 2. 상단 입력창에 한자를 입력합니다.  
    예: `韓國`, `天地`, `春夏秋冬`
